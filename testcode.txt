@@ -1,0 +1,18 @@
+<div id="main">
+<div id="CecutientWrapper">
+	<div id="CecutientBlock">
+		<a id="CecutientOn">Включить Версию для слабовидящих</a>
+		<a id="CecutientOff">Включить обычный режим просмотра</a>
+		<a id="ImageOn">Включить изображения</a>
+		<a id="ImageOff">Отключить Изображения</a>
+		<font class="text_1">Размер шрифта: </font>
+		<a id="SmallFonts">А</a>
+		<a id="MediumFonts">A</a>
+		<a id="BigFonts">A</a>
+		<font class="text_1">Цветовая схема: </font>
+		<a id="WhiteStyle">A</a>
+		<a id="BlackStyle">A</a>
+		<a id="BlueStyle">A</a>
+		<a id="GreenStyle">A</a>
+	</div>
+</div>
